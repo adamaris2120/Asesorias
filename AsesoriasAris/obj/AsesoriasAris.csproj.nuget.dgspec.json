@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mac02/Projects/AsesoriasAris/AsesoriasAris/AsesoriasAris.csproj": {}
+  },
+  "projects": {
+    "/Users/mac02/Projects/AsesoriasAris/AsesoriasAris/AsesoriasAris.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mac02/Projects/AsesoriasAris/AsesoriasAris/AsesoriasAris.csproj",
+        "projectName": "AsesoriasAris",
+        "projectPath": "/Users/mac02/Projects/AsesoriasAris/AsesoriasAris/AsesoriasAris.csproj",
+        "packagesPath": "/Users/mac02/.nuget/packages/",
+        "outputPath": "/Users/mac02/Projects/AsesoriasAris/AsesoriasAris/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mac02/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+/Users/mac02/Projects/AsesoriasAris/AsesoriasAris/obj/Debug/net5.0/AsesoriasAris.csproj.AssemblyReference.cache
+/Users/mac02/Projects/AsesoriasAris/AsesoriasAris/obj/Debug/net5.0/AsesoriasAris.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac02/Projects/AsesoriasAris/AsesoriasAris/obj/Debug/net5.0/AsesoriasAris.AssemblyInfoInputs.cache
+/Users/mac02/Projects/AsesoriasAris/AsesoriasAris/obj/Debug/net5.0/AsesoriasAris.AssemblyInfo.cs
+/Users/mac02/Projects/AsesoriasAris/AsesoriasAris/obj/Debug/net5.0/AsesoriasAris.csproj.CoreCompileInputs.cache
+/Users/mac02/Projects/AsesoriasAris/AsesoriasAris/bin/Debug/net5.0/AsesoriasAris
+/Users/mac02/Projects/AsesoriasAris/AsesoriasAris/bin/Debug/net5.0/AsesoriasAris.deps.json
+/Users/mac02/Projects/AsesoriasAris/AsesoriasAris/bin/Debug/net5.0/AsesoriasAris.runtimeconfig.json
+/Users/mac02/Projects/AsesoriasAris/AsesoriasAris/bin/Debug/net5.0/AsesoriasAris.runtimeconfig.dev.json
+/Users/mac02/Projects/AsesoriasAris/AsesoriasAris/bin/Debug/net5.0/AsesoriasAris.dll
+/Users/mac02/Projects/AsesoriasAris/AsesoriasAris/bin/Debug/net5.0/AsesoriasAris.pdb
+/Users/mac02/Projects/AsesoriasAris/AsesoriasAris/obj/Debug/net5.0/AsesoriasAris.dll
+/Users/mac02/Projects/AsesoriasAris/AsesoriasAris/obj/Debug/net5.0/refint/AsesoriasAris.dll
+/Users/mac02/Projects/AsesoriasAris/AsesoriasAris/obj/Debug/net5.0/AsesoriasAris.pdb
+/Users/mac02/Projects/AsesoriasAris/AsesoriasAris/obj/Debug/net5.0/AsesoriasAris.genruntimeconfig.cache
+/Users/mac02/Projects/AsesoriasAris/AsesoriasAris/obj/Debug/net5.0/ref/AsesoriasAris.dll

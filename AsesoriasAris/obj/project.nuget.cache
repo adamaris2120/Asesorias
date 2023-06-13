@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rg0QGabt7yN4kc9Burouk5mVrNoRlkrXFLKssCnONMu+tT05EsxLceVoeOyt49vRYti36FIpETWO6GJveyE3Sw==",
+  "success": true,
+  "projectFilePath": "/Users/mac02/Projects/AsesoriasAris/AsesoriasAris/AsesoriasAris.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac02/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/mac02/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512",
+    "/Users/mac02/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
